@@ -13,7 +13,6 @@ jobs:
       MONGODB_USERNAME: Oleksandr Morskyi
       MONGODB_PASSWORD: AL_Capone123
       PORT: 3000
-    environment: testing
     runs-on: ubuntu-latest
     steps:
       - name: Get Code
